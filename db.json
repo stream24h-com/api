@@ -2,4 +2,4 @@
   { id: 1, name: 'tour 1', duration: '1 day', price: '£199', code: 'Flight 111', description: 'description 1' },
   { id: 2, name: 'tour 2', duration: '2 days', price: '£299', code: 'Flight 222', description: 'description 2' },
   { id: 3, name: 'tour 3', duration: '3 days', price: '£399', code: 'Flight 333', description: 'description 3' },
-];
+]
