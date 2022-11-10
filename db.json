@@ -3,10 +3,10 @@
     {
       "id": 1,
       "name": "tour 1",
-      "duration": '1 day', 
-      "price": '£199', 
-      "code": 'Flight 111', 
-      "description": 'description 1',
+      "duration": "1 day", 
+      "price": "£199", 
+      "code": "Flight 111", 
+      "description": "description 1",
     }
   ],
 }
