@@ -1,12 +1,40 @@
 {
-  "tours": [
+  "results": [
     {
-      "id": 1,
-      "name": "tour 1",
-      "duration": "1 day", 
-      "price": "£199", 
-      "code": "Flight 111", 
-      "description": "description 1",
+      "destination": {
+        "city": "Dubai",
+        "place": "Burj Al Arab"
+      },
+      "details": {
+        "title": "Tour 1",
+        "duration": "6 days",
+        "price": "$6789",
+        "description": "Discover the untold stories of the world's 7-star hotel"
+      }
+    },
+    {
+      "destination": {
+        "city": "Dubai",
+        "place": "Palm Jumeirah"
+      },
+      "details": {
+        "title": "Tour 2",
+        "duration": "8 days",
+        "price": "$8888",
+        "description": "Palm Jumeirah is shaped like a palm tree when viewed from above"
+      }
+    },
+    {
+      "destination": {
+        "city": "Dubai",
+        "place": "Al Jadaf"
+      },
+      "details": {
+        "title": "Tour 3",
+        "duration": "9 days",
+        "price": "$9999",
+        "description": "Experience Desert Safari with Barbeque dinner and live entertainment"
+      }
     }
-  ],
+  ]
 }
